@@ -1,1 +1,2 @@
-# chineseschool
+#资本学校模拟器
+核心模块源码src.zip
